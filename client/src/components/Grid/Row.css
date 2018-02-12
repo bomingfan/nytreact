@@ -1,0 +1,11 @@
+.row {
+    border-color: rgb(9, 9, 51);
+    border-width: 5px;
+    border-style: solid;
+    /* width: 800px; */
+    padding: 10px;
+    margin: 20px 80px;
+
+    /* border: 1px solid #000; */
+    
+}

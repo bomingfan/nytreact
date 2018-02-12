@@ -6,6 +6,16 @@ This setup allows for a Node/Express/React app which can be easily deployed to H
 
 The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
 
+## Before Start
+
+Add `.gitignore` and the following command in it
+
+```
+client/node_modules
+/node_modules
+DS_Store
+```
+
 ## Starting the app locally
 
 Start by installing front and backend dependencies. While in this directory, run the following commands:
