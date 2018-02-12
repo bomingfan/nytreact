@@ -32,7 +32,6 @@ class Home extends React.Component {
     this.setState({
         articles: res.data
     })
-    .then(console.log(this.state.articles))
 )
 };
 
